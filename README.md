@@ -1,4 +1,5 @@
-# BeautyGAN
+# BeautyGAN 👉 https://jonhyuk0922.tistory.com/103
+
 
 See [01_BeautyGAN_21_03_30.ipynb](01_BeautyGAN_21_03_30.ipynb), includes:
 - Face detection from random images

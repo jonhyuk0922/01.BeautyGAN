@@ -1,6 +1,6 @@
 # BeautyGAN
 
-See [test.ipynb](test.ipynb), includes:
+See [01_BeautyGAN_21_03_30.ipynb](01_BeautyGAN_21_03_30.ipynb), includes:
 - Face detection from random images
 - Facial landmarks detection
 - Face alignment
